@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avinashpathak716
-- 👀 I’m interested in Android app development and competitive coding
+- 👀 I’m interested in Android app development and competitive coding.
 - 🌱 I’m currently learning Android studio and c++.
 - 💞️ I’m looking to collaborate on Android app development as we are working on an startup.
 - 📫 you can reach me @ 6376614925 or at avinashpathak716@gmail.com
